@@ -4,9 +4,9 @@ This project is for farmers we are creating a web app which helps farmers to det
 
 These are the steps we have to follow:
 
-step 1 : training data
+step 1 : training data (Uploaded)
 
-step 2 : fast API/ tf.server
+step 2 : fast API/ tf.server (still working)
 
 step 3: Webpage (react.js)
 
